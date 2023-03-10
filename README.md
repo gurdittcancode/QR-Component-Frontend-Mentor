@@ -4,14 +4,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshots](#screenshots)
+- [Links](#links)
 - [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
-
-### Screenshots
-
-![]("images\Screenshot 2023-03-10 183211.png")
-
 ### Links
 
 - Solution URL: [solution URL](https://github.com/gurdittcancode/QR-Component-Frontend-Mentor/settings/pages)
