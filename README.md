@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshots
 
-![]("C:\Users\Hp\Pictures\Screenshots\Screenshot 2023-03-10 183211.png")
+![]("images\Screenshot 2023-03-10 183211.png")
 
 ### Links
 
